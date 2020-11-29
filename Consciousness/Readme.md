@@ -7,3 +7,7 @@
 
 * 시공간 의식이론: https://www.youtube.com/watch?v=ZcCruc_JORk
   - [시공간 의식이론](시공간의식이론.md)
+
+## 정신이란 무엇인가?
+* 정신이란 무엇인가?_의식과 무의식(심리학 북리뷰) : https://www.youtube.com/watch?v=LLUKsHJoVaQ
+  - 
