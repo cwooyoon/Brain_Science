@@ -6,4 +6,4 @@
 * 의식은 과학의 영역인가?
 
 * 시공간 의식이론: https://www.youtube.com/watch?v=ZcCruc_JORk
-
+  - [a relative link](시공간의식이론.md)
